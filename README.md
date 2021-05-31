@@ -16,3 +16,4 @@ substring of "bananas" is "anana". (https://en.wikipedia.org/wiki/Longest_palind
 
 Right now it has only single page for below algo.
 Expect to have more such algos added in the upcoming future.
+<img width="1770" alt="algo-viz-v1-1" src="https://user-images.githubusercontent.com/39838457/120210590-90a5fe00-c24d-11eb-93a0-95c4d757b146.png">
