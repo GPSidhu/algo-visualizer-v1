@@ -67,6 +67,14 @@ function App() {
 					>
 						Hurry
 					</a>
+					<a
+						href="https://github.com/GPSidhu/algo-visualizer-v1"
+						rel="noreferrer"
+                        target="_blank"
+                        style={{marginLeft: '4px', textDecoration: 'none'}}
+					>
+						(code)
+					</a>
 				</p>
 			</div>
 		</div>

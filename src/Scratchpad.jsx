@@ -4,7 +4,6 @@ import styled from "styled-components";
 const Container = styled.div`
 	display: grid;
 	grid-template-columns: 300px auto 300px;
-	// grid-template-columns: auto auto auto;
 	grid-gap: 24px;
 	padding: 2rem;
 `;
@@ -83,7 +82,6 @@ const Message = styled.li`
 
 const ControlArea = styled.div`
 	margin: 1rem auto;
-	// width: 100%;
 	border: 1px solid white;
 	padding: 2rem;
 	display: flex;
@@ -289,7 +287,6 @@ const Scratchpad = () => {
 					]);
 				} else {
 					while (j <= end) {
-						// for (j = i + 1; j <= end; j++) {
 						_T[j] = Math.min(_T[i - (j - i)], 2 * (end - j) + 1);
 						setT(_T);
 						if (j + Math.floor(_T[i - (j - i)] / 2) === end) {
