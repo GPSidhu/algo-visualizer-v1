@@ -22,7 +22,7 @@ Expect to have more such algos added in the upcoming future.
 The app is not deployed on the web yet. So please help yourself at the moment.
 
 # How to use? #
-Pre-req: Make sure you have latest node version installed
+Pre-req: If using node and npm, make sure you have latest node version installed.
 1. Clone this repo (git@github.com:GPSidhu/algo-visualizer-v1.git)
 2. Go to this project's root directory on your machine
 3. npm install (to install the dependencies)
